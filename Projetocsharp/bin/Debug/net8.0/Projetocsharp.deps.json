@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Projetocsharp/1.0.0": {
+        "dependencies": {
+          "Projetocsharp.Common": "1.0.0"
+        },
+        "runtime": {
+          "Projetocsharp.dll": {}
+        }
+      },
+      "Projetocsharp.Common/1.0.0": {
+        "runtime": {
+          "Projetocsharp.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projetocsharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Projetocsharp.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

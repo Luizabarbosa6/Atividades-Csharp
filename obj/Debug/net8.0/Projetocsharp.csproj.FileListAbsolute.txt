@@ -1,0 +1,14 @@
+C:\Users\Família Barbosa\OneDrive\Anexos\Projetocsharp\bin\Debug\net8.0\Projetocsharp.exe
+C:\Users\Família Barbosa\OneDrive\Anexos\Projetocsharp\bin\Debug\net8.0\Projetocsharp.deps.json
+C:\Users\Família Barbosa\OneDrive\Anexos\Projetocsharp\bin\Debug\net8.0\Projetocsharp.runtimeconfig.json
+C:\Users\Família Barbosa\OneDrive\Anexos\Projetocsharp\bin\Debug\net8.0\Projetocsharp.dll
+C:\Users\Família Barbosa\OneDrive\Anexos\Projetocsharp\bin\Debug\net8.0\Projetocsharp.pdb
+C:\Users\Família Barbosa\OneDrive\Anexos\Projetocsharp\obj\Debug\net8.0\Projetocsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Família Barbosa\OneDrive\Anexos\Projetocsharp\obj\Debug\net8.0\Projetocsharp.AssemblyInfoInputs.cache
+C:\Users\Família Barbosa\OneDrive\Anexos\Projetocsharp\obj\Debug\net8.0\Projetocsharp.AssemblyInfo.cs
+C:\Users\Família Barbosa\OneDrive\Anexos\Projetocsharp\obj\Debug\net8.0\Projetocsharp.csproj.CoreCompileInputs.cache
+C:\Users\Família Barbosa\OneDrive\Anexos\Projetocsharp\obj\Debug\net8.0\Projetocsharp.dll
+C:\Users\Família Barbosa\OneDrive\Anexos\Projetocsharp\obj\Debug\net8.0\refint\Projetocsharp.dll
+C:\Users\Família Barbosa\OneDrive\Anexos\Projetocsharp\obj\Debug\net8.0\Projetocsharp.pdb
+C:\Users\Família Barbosa\OneDrive\Anexos\Projetocsharp\obj\Debug\net8.0\Projetocsharp.genruntimeconfig.cache
+C:\Users\Família Barbosa\OneDrive\Anexos\Projetocsharp\obj\Debug\net8.0\ref\Projetocsharp.dll
